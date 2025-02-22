@@ -8,7 +8,7 @@ This repo contains dirty setup of manjaro zsh config.
 Make sure your system is up-to-date and required packages are installed.
 ```
 sudo pacman -Syu zsh
-yay -S powerlevel10k
+yay -S zsh-theme-powerlevel10k
 ```
 Change default shell:
 ```
@@ -24,7 +24,7 @@ echo $SHELL
 
 Run this:
 ```
-git clone https:github.com/ha7shu/manjaro-zsh.git
+git clone https://github.com/ha7shu/manjaro-zsh.git
 cd manjaro-zsh
 chmod +x install.sh
 ./install.sh
