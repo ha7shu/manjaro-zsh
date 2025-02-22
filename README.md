@@ -1,11 +1,7 @@
 # manjaro-zsh
 
----
-
 This repo contains dirty setup of manjaro zsh config. 
 **zsh** folder is copy of the same config provided by Manjaro.
-
----
 
 ## Installation
 
